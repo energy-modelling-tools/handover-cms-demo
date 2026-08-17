@@ -46,11 +46,6 @@ events:
   alt: EMP-A 2021
   description: Held from 22 November – 10 December 2021.
   outputs: []
-- title: Testing the function of adding events
-  image: ""
-  alt: Test image
-  description: A demo of the functionality
-  outputs: []
 adjacent_events:
 - country: Ethiopia
   flag: 🇪🇹
