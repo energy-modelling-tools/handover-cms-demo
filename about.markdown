@@ -11,14 +11,12 @@ permalink: /about/
       <div class="col-md-12 animate-out mb-2">
         <!-- CMS:section id=about_about_onsset -->
         <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
-          <strong>OnSSET</strong> is a bottom-up optimization energy modelling tool that estimates, analyzes, 
-          and visualizes the most cost-effective electrification strategy. It incorporates spatially explicit 
-          characteristics related to energy — including population density and distribution, proximity to 
-          transmission and road networks, nighttime lights, and local renewable energy potential.
-          <br><br>
-          OnSSET focuses on assessing and deploying conventional and renewable energy technologies to ensure access 
-          to affordable, reliable, sustainable, and modern energy for all.
-        </p>
+        <strong>OnSSET</strong> is a bottom-up optimization energy modelling tool that estimates, analyzes, and visualizes the most cost-effective electrification strategy. It incorporates spatially explicit characteristics related to energy — including population density and distribution, proximity to transmission and road networks, nighttime lights, and local renewable energy potential.<br>
+        <br>
+        <strong>This</strong> is a test edit of the about page.<br>
+        <br>
+        OnSSET focuses on assessing and deploying conventional and renewable energy technologies to ensure access to affordable, reliable, sustainable, and modern energy for all.
+      </p>
         <!-- /CMS:section -->
       </div>
 
@@ -87,6 +85,14 @@ permalink: /about/
         </p>
         <!-- /CMS:section -->
       </div>
+<h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6">A test section</h2>
+<div class="col-md-12 animate-out mb-2">
+<!-- CMS:section id=add_new_sec_demo -->
+<p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
+This is a test section.
+</p>
+<!-- /CMS:section -->
+</div>
     </div>
   </div>
 
