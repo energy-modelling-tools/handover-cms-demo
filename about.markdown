@@ -90,7 +90,15 @@ permalink: /about/
     </div>
   </div>
 
-  <!-- Icon Links -->
+  <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6">How can you add a new section?</h2>
+<div class="col-md-12 animate-out mb-2">
+<!-- CMS:section id=add_new_sec -->
+<p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
+This is a test of adding a new section in about page.
+</p>
+<!-- /CMS:section -->
+</div>
+<!-- Icon Links -->
   <div class="icon-links-section">
     <div class="icon-links-wrapper">
       <!-- GitHub Repository -->
