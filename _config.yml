@@ -1,0 +1,37 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+
+# global settings
+title: OnSSET (handover demo)
+logo: "/assets/img/logos/onsset.svg"
+description: "GitHub helps government build software better, together"
+baseurl: "/handover-cms-demo" # the subpath of your site (matching new repo name)
+permalink: "/stories/:title"
+relative_permalinks: false
+forum_slug: "onsset"
+
+# Remote Theme Configuration
+remote_theme: energy-modelling-tools/page-template@main
+
+# build settings
+exclude: ["script", "vendor", "bower.json", "Gemfile", "Gemfile.lock", "Rakefile", "readme.md", "package.json", "node_modules","*_tmp.html","*_tmp.*"]
+markdown: kramdown
+theme: null
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-theme-primer
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-redirect-from
+  - jekyll-coffeescript
+  - jekyll-sitemap
+  - jekyll-octicons
+
+sass:
+  style: :compressed
+  sass_dir: assets/css/
