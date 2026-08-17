@@ -46,6 +46,15 @@ events:
   alt: EMP-A 2021
   description: Held from 22 November – 10 December 2021.
   outputs: []
+- title: Test event
+  image: ../assets/img/EMP/Test-event.png
+  alt: Test event
+  description: A Test event to be added to the page.
+  outputs:
+  - country: Test event
+    flag: GitHub
+    title: a way to add events
+    url: a link
 adjacent_events:
 - country: Ethiopia
   flag: 🇪🇹
