@@ -55,6 +55,15 @@ events:
     flag: GitHub
     title: a way to add events
     url: a link
+- title: Handover
+  image: ../assets/img/EMP/Handover-session.png
+  alt: Handover session
+  description: A Test event added in the handover session.
+  outputs:
+  - country: Handover
+    flag: GitHub
+    title: a way to add events
+    url: a link
 adjacent_events:
 - country: Ethiopia
   flag: 🇪🇹
