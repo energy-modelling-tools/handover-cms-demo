@@ -13,8 +13,6 @@ permalink: /about/
         <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
         <strong>OnSSET</strong> is a bottom-up optimization energy modelling tool that estimates, analyzes, and visualizes the most cost-effective electrification strategy. It incorporates spatially explicit characteristics related to energy — including population density and distribution, proximity to transmission and road networks, nighttime lights, and local renewable energy potential.<br>
         <br>
-        <strong>This</strong> is a test edit of the about page.<br>
-        <br>
         OnSSET focuses on assessing and deploying conventional and renewable energy technologies to ensure access to affordable, reliable, sustainable, and modern energy for all.
       </p>
         <!-- /CMS:section -->
@@ -24,10 +22,10 @@ permalink: /about/
       <div class="col-md-12 animate-out mb-2">
         <!-- CMS:section id=about_what_does_it_do -->
         <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
-          OnSSET is designed to complement existing energy planning models that do not consider geographical 
-          characteristics related to energy. It provides invaluable support to policymakers and decision makers 
-          seeking least-cost electrification strategies.
-        </p>
+        OnSSET is designed to complement existing energy planning models that do not consider geographical characteristics related to energy. It provides invaluable support to policymakers and decision makers seeking least-cost electrification strategies.<br>
+        <br>
+        This is a test sentence in our handover.
+      </p>
         <!-- /CMS:section -->
       </div>
 
@@ -85,13 +83,15 @@ permalink: /about/
         </p>
         <!-- /CMS:section -->
       </div>
-<h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6">A test section</h2>
+<h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6">Handover Session</h2>
 <div class="col-md-12 animate-out mb-2">
-<!-- CMS:section id=add_new_sec_demo -->
+<!-- CMS:section id=test_section_handover -->
 <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
-This is a test section.
+Hi this is how you add a section.
 </p>
 <!-- /CMS:section -->
+</div>
+
 </div>
     </div>
   </div>
